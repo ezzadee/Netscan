@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Shield with radar arcs, drawn inside the 66dp adaptive-icon safe zone -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#2BD9A0"
+        android:pathData="M54,28 L76,36 L76,54 C76,67 66,77 54,81 C42,77 32,67 32,54 L32,36 Z" />
+    <path
+        android:fillColor="#0E1116"
+        android:pathData="M54,33 L71,39.5 L71,54 C71,64 63.5,72 54,75.5 C44.5,72 37,64 37,54 L37,39.5 Z" />
+    <path
+        android:strokeColor="#2BD9A0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M45,52 A12,12 0 0,1 63,52" />
+    <path
+        android:strokeColor="#2BD9A0"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M49,57 A6.5,6.5 0 0,1 59,57" />
+    <path
+        android:fillColor="#2BD9A0"
+        android:pathData="M54,64 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
